@@ -1,0 +1,28 @@
+h1{
+    font-family: "playfair display"serif;
+    text-align: center;
+    font-size: 50px;
+
+}
+h2{
+    text-align: center;
+    font-family: "poppins",sans-serif;
+    font-size: 24px;
+    font-weight: normal;
+    padding: 20px;
+}
+.description{
+    text-align: center;
+    background-color: rgb(230, 245, 165);
+    padding: 120px 60px;
+}
+.description p{
+    font-size: 36px;
+    font-weight:medium;
+}
+.btn-primary-branding{
+    color:white;
+    background-color: rgb(112, 102, 121);
+    padding: 10px;
+    box-shadow: 5px 5px 5px grey;
+}

@@ -1,20 +1,38 @@
+@media(max-width:900px) {
+    h1{
+        font-size: 60px;
+    }
+    h2{
+        font-size: 44px;
+    }
+    .project-desciption {
+        padding: 0;
+        text-align: center;
+    }
+}
+
 h1{
     font-family: "playfair display"serif;
     text-align: center;
     font-size: 50px;
 
 }
-h2{
+.description h2{
     text-align: center;
     font-family: "poppins",sans-serif;
     font-size: 24px;
     font-weight: normal;
     padding: 20px;
 }
+h2{
+    font-size: 64px;
+    font-family: "poppins",sans-serif;
+}
 .description{
     text-align: center;
-    background-color: rgb(230, 245, 165);
+    background-color: rgb(197, 247, 223);
     padding: 120px 60px;
+    box-shadow: 20px 20px 20px  rgb(201, 192, 192)
 }
 .description p{
     font-size: 36px;
@@ -31,9 +49,22 @@ height: 400px;
 }
 .btn-branding-outline{
     background-color: whitesmoke;
-    outline-style: groove;
+    color: blueviolet;
+    border-radius: 4px;
+    font-size: 18px;
+    line-height: 27px;
+    padding: 15px 30px;
+}
+.project-desciption{
+   padding:120px 60px; 
 }
 p{
-    
+    font-style: italic;
+}
+.awesome{
+    padding: 10px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    text-align: right;
 }
  

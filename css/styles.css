@@ -48,7 +48,7 @@ h2{
 height: 400px;
 }
 .btn-branding-outline{
-    background:rgb(209, 166, 248);
+    background:rgb(181, 124, 245);
     color:white;
     border-radius: 4px;
     font-size: 18px;
@@ -66,5 +66,47 @@ p{
     margin-top: 50px;
     margin-bottom: 20px;
     text-align: right;
+}
+.heading{
+    color: rgb(82, 48, 112);
+    font-family: "poppins"sans-serif;
+    font-size: 36px;
+}
+.header{
+    background-color: aquamarine;
+    max-width: 70%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.about-me{
+    font-size: 96px;
+    font-family: "poppins",sans-serif;
+    padding:12px;
+    margin-top: 15px;
+    color: rgb(65, 43, 85);
+}
+.front{
+    font-family: "playfair display",serif;
+    font-size: 36px;
+    margin-bottom: 35px;
+    color: rgb(106, 72, 138);
+}
+.contact-me p{
+    text-align: center;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 60%;
+    background-color: rgb(243, 235, 235);
+}
+.email-link{
+    display: flex;
+  justify-content: center;
+  text-decoration: none;
+}
+.my-socials {
+    text-align: center;
+    padding: 10px;
 }
  

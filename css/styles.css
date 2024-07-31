@@ -104,9 +104,16 @@ p{
     display: flex;
   justify-content: center;
   text-decoration: none;
+  margin-bottom: 10px;
 }
 .my-socials {
     text-align: center;
     padding: 10px;
+}
+.hello{
+    margin-top: 30px;
+    margin-bottom: 5px;
+    color: rgb(50, 35, 65);
+    text-decoration: underline;
 }
  
